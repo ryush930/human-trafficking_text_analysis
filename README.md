@@ -298,7 +298,7 @@ SEED = 42
 ### 7.1 2023년
 
 <p align="center">
-  <img src="images/network_2023.png" width="800">
+  <img src="images/network_2023.png" width="1000">
 </p>
 
 - 기사: **873건**
