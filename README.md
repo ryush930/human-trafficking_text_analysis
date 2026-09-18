@@ -298,7 +298,7 @@ SEED = 42
 ### 7.1 2023년
 
 <p align="center">
-  <img src="images/network_2023.png" width="1000">
+  <img src="images/network_2023.png" width="1200">
 </p>
 
 - 기사: **873건**
@@ -318,7 +318,7 @@ SEED = 42
 ### 7.2 2024년
 
 <p align="center">
-  <img src="images/network_2024.png" width="800">
+  <img src="images/network_2024.png" width="1200">
 </p>
 
 - 기사: **970건**
@@ -338,7 +338,7 @@ SEED = 42
 ### 7.3 2025년
 
 <p align="center">
-  <img src="images/network_2025.png" width="800">
+  <img src="images/network_2025.png" width="1200">
 </p>
 
 - 기사: **2,121건**
@@ -379,7 +379,7 @@ SEED = 42
 ### 7.4 2026년
 
 <p align="center">
-  <img src="images/network_2026.png" width="800">
+  <img src="images/network_2026.png" width="1200">
 </p>
 
 - 기사: **713건**
